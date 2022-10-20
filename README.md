@@ -4,5 +4,5 @@
 
 <div align="center">
   <h1>LightOS</h1>
-  <h3>Fast, Lightweight, Pragmatic, Beautiful</h3>
+  <h3>A Fast, Lightweight, Pragmatic & Beautiful Operating System</h3>
 </div>
