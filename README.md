@@ -11,7 +11,7 @@
 
 
 ## :dart: About ##
-<p align="left"> 
+<p align="right"> 
 LightOS, is an **extremely light weight** 🪶 Operating System thats 🔥 **blazing fast** 🔥 and can run on pretty much anything ✨.
 
 LightOS is built on modern, cutting edge technologies 🚀 that, despite being smaller than the size of the average Netflix Documentary 🎥 and having a much smaller resource footprint than MS Paint 🖌️, still is as capable as any modern, resource heavy 🔨 Operating Systems like Windows 🪟.
