@@ -25,7 +25,7 @@ LightOS is built on modern, cutting edge technologies 🚀 that, despite being s
 
 <a href="https://suckless.org">
   <img width="50" title="Suckless" alt="Styled Components Logo" src="https://user-images.githubusercontent.com/110741779/197227855-db99b0e0-616b-4f21-96ad-78314c339804.png">
-</a> &#xa0; &#xa0;[
+</a> &#xa0; &#xa0;
 
 <a href="https://lua.org">
   <img width="50" title="Lua" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197228361-9106b16c-8deb-43f6-85de-c54653663791.png">
