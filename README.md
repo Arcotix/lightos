@@ -32,6 +32,10 @@ LightOS is built on modern, cutting edge technologies 🚀 that, despite being s
 </a> &#xa0; &#xa0;
 
 
+https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b-9a5f-154fa009c9aa.mp4
+
+
+
 
 
 
