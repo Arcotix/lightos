@@ -37,7 +37,13 @@ https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b
   <img width="60" title="Linux" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197250010-f6a560e4-8d65-4f6f-838e-0aff550735ed.png">
 </a> &#xa0; &#xa0;
 
+<a href="linux.org">
+  <img width="60" title="Linux" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197250010-f6a560e4-8d65-4f6f-838e-0aff550735ed.png">
+</a> &#xa0; &#xa0;
 
+<a href="nvchad.com">
+  <img width="60" title="NvChad" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197250239-1ad19e2c-eaf1-45ad-8976-e908ecd20619.png">
+</a> &#xa0; &#xa0;
 
 
 
