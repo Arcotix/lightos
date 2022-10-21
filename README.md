@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b
 </a> &#xa0; &#xa0;
 
 <a href="nvchad.com">
-  <img width="80" title="NvChad" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197250239-1ad19e2c-eaf1-45ad-8976-e908ecd20619.png">
+  <img width="60" title="NvChad" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197250239-1ad19e2c-eaf1-45ad-8976-e908ecd20619.png">
 </a> &#xa0; &#xa0;
 
 
