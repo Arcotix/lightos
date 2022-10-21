@@ -16,27 +16,21 @@ LightOS is built on modern, cutting edge technologies 🚀 that, despite being s
 ## :rocket: Main Technologies ##
 
 <a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://user-images.githubusercontent.com/110741779/197226666-98382509-3af3-4936-9570-436b8bc5a091.png">
+  <img width="50" title="Arch Linux" alt="ArchLinux" src="https://user-images.githubusercontent.com/110741779/197226666-98382509-3af3-4936-9570-436b8bc5a091.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+<a href="https://www.gnu.org/software/bash/">
+  <img width="50" title="Shell Script" alt="Shell" src="https://user-images.githubusercontent.com/110741779/197227085-9b643b1f-8713-4979-ae36-de2424374d05.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+<a href="https://suckless.org">
+  <img width="50" title="Suckless" alt="Styled Components Logo" src="https://user-images.githubusercontent.com/110741779/197227855-db99b0e0-616b-4f21-96ad-78314c339804.png">
+</a> &#xa0; &#xa0;[
+
+<a href="https://lua.org">
+  <img width="50" title="Lua" alt="Jest Logo" src="https://user-images.githubusercontent.com/110741779/197228361-9106b16c-8deb-43f6-85de-c54653663791.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
 
 
 
