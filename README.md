@@ -42,9 +42,6 @@ https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b
 
 Download the ISO file from the Releases Tab, use a tool like [Rufus](https://rufus.ie/en/) to burn the iso file onto a bootable media (such as a usb stick)
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
 
 ## :checkered_flag: Development ##
 
