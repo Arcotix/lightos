@@ -38,6 +38,35 @@ https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b
 </a> &#xa0; &#xa0;
 
 
+## :white_check_mark: Installation ##
+
+Download the ISO file from the Releases Tab, use a tool like [Rufus](https://rufus.ie/en/) to burn the iso file onto a bootable media (such as a usb stick)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+
+## :checkered_flag: Development ##
+
+```bash
+# If you'd like to modify or develop for the OS, follow the instructions below
+
+# Clone this project
+git clone https://github.com/Arcotix/lightos.git
+
+# change into the workspace
+cd lightos
+
+# root fs (/) is located at airootfs/, here you can modify the configs, files and directories that come with LightOS
+# installed packages are location at .packagesx86_64, you can add or remove packages by modifiying this file
+# for more info, see https://wiki.archlinux.org/title/archiso
+
+# When you are done, compile the OS with
+mkarchiso -v -w /path/to/work_dir -o /path/to/out_dir /path/to/profile/
+
+```
+
+
 
 
 
