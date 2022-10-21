@@ -32,6 +32,6 @@ LightOS is built on modern, cutting edge technologies 🚀 that, despite being s
 </a> &#xa0; &#xa0;
 
 
-https://streamable.com/e/rrzec6
+
 
 
