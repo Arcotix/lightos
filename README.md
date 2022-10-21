@@ -13,6 +13,8 @@ LightOS, is an **extremely light weight** 🪶 Operating System thats 🔥 **bla
 
 LightOS is built on modern, cutting edge technologies 🚀 that, despite being smaller than the size of the average Netflix Documentary 🎥 and having a much smaller resource footprint than MS Paint 🖌️, still is as capable as any modern, resource heavy 🔨 Operating Systems like  **MS Windows** 🪟.
 
+https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b-9a5f-154fa009c9aa.mp4
+
 ## :rocket: Main Technologies ##
 
 <a href="https://archlinux.org">
@@ -32,7 +34,7 @@ LightOS is built on modern, cutting edge technologies 🚀 that, despite being s
 </a> &#xa0; &#xa0;
 
 
-https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b-9a5f-154fa009c9aa.mp4
+
 
 
 
