@@ -40,10 +40,10 @@ https://user-images.githubusercontent.com/110741779/197249113-9685c201-91ec-429b
 
 ## System Requirements // Resource Usage ##
 
-**CPU :** ARM Cortex-A53 [4% - 6% usage on idle]
-**Memory :** 256 MB RAM (512 MB RAM preffered) [~200 MB RAM usage on idle]
-**Storage :** 2 GB Disk (3 GB Preffered) [1.1 GB base installation]
-** Power : ** 0.26 Watts (260 mA) [370 mA (0.37 Watts) When under stress]
+**CPU :** ARM Cortex-A53 [4% - 6% usage on idle] <br>
+**Memory :** 256 MB RAM (512 MB RAM preffered) [~200 MB RAM usage on idle] <br>
+**Storage :** 2 GB Disk (3 GB Preffered) [1.1 GB base installation] <br>
+** Power : ** 0.26 Watts (260 mA) [370 mA (0.37 Watts) When under stress] <br>
 
 ## 💾 Installation ##
 
