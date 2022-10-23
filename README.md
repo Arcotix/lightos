@@ -65,7 +65,7 @@ git clone https://github.com/Arcotix/lightos.git
 cd lightos
 
 # root fs (/) is located at airootfs/, here you can modify the configs, files and directories that come with LightOS
-# installed packages are location at .packagesx86_64, you can add or remove packages by modifiying this file
+# installed packages are located at .packagesx86_64, you can add or remove packages by modifiying this file
 # for more info, see https://wiki.archlinux.org/title/archiso
 
 # When you are done, compile the OS with
