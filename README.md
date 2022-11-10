@@ -73,7 +73,7 @@ mkarchiso -v -w /path/to/work_dir -o /path/to/out_dir /path/to/profile/
 
 ```
 
-<br>
+## Credits ##
 
 Made By ~Smayan Sahu
 
