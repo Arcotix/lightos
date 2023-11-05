@@ -77,7 +77,7 @@ mkarchiso -v -w /path/to/work_dir -o /path/to/out_dir /path/to/profile/
 ## LightOS-Photon ##
 
 Soon
-
+<img src="https://github.com/Arcotix/lightos/blob/main/LightOS-Photon.png">
 
 
 ## Credits ##
